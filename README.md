@@ -7,12 +7,12 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Table of contents
 - [About](#About)
-- [Study Projects](#Study Projects)
-- [Portfolio Projects](#PortfolioProjects)
+- [Study Projects](#Study_Projects)
+- [Portfolio Projects](#Portfolio_Projects)
 - [Certificates](#Certificates)
 - [Contacts](#Contacts)
 
-## Study Projects
+## Study_Projects
 In this section, I will list data analytics projects briefly describing the skills, technology stack, and results. I will also provide links to the code, files and screenshots where necessary.
 
 ### FBI Gun Data Analysis
@@ -47,11 +47,11 @@ With the twitter API, information about tweets from the twitter user @dog_rates 
 **Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn, Geopandas, Shapely \
 **Results:** The analysis was mainly geared to reveal the stations with the most bike usage and to determine if geographical location played a part in the usage. 
 
-## Portfolio Projects
+## Portfolio_Projects
 In this section, I will list some projects briefly describing the skills, technology stack, and results. I will also provide links to the code, files and screenshots where necessary.
 
 - ### Excel Projects
-	- #### Road Accident Data Analysis [road_accident_analysis.xlsx](https:\\www.ter.com)
+	- #### Road Accident Data Analysis ([road_accident_analysis.xlsx](https:\\www.ter.com))
 	In this project used dataset from [kaggle](https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022) to create a dashboard with generated KPI's and pivot tables. The project covered skills like *Data Cleaning, Pivot Tables, Visualization Charts*
 - ### SQL, MySQL,  PostgreSQL Projects
 - ### Power BI, Tableau Projects
