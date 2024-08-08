@@ -1,16 +1,16 @@
 # Derrick Narkah - Data Analysis Portfolio
 ## About
 Hello, My name is Derrick Narkah, studying for a Master of Engineering (MEng) degree in Electrical and Computer Engineering from Concordia University, Montreal, Quebec. I have over seven (7) years working as an engineer in various roles. In all of this, I developed a keen interest in data science and analysis, machine learning, and artificial intelligence for about 4 years leveraging MOOC's, and short courses to increase my knowledge and practice.
-Here is my Resume and a link of my certificates.
+Here is my [Resume](https://github.com/derricknarkah/my_data_analysis_portfolio/blob/main/Resume_Derrick%20Narkah.pdf) and a link of my certificates.
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics, Data Science-related topics, Machine Learning and Artificial Intelligence.
 
 ## Table of contents
-- [About](https://www.markdownguide.org/cheat-sheet/)
-- [Study Projects](https://www.xyz.com)
-- [Portfolio Projects](https://www.abc.com)
-- [Certificates](https://www.123.com)
-- [Contacts](https://www.uvw.com)
+- [About](#About)
+- [Study Projects](#Study Projects)
+- [Portfolio Projects](#PortfolioProjects)
+- [Certificates](#Certificates)
+- [Contacts](#Contacts)
 
 ## Study Projects
 In this section, I will list data analytics projects briefly describing the skills, technology stack, and results. I will also provide links to the code, files and screenshots where necessary.
@@ -45,12 +45,26 @@ With the twitter API, information about tweets from the twitter user @dog_rates 
 **Description:** The Ford GoBike System Data is data collected on 183413 individual rides made in a bike-sharing program in the San Francisco Bay Area covering the period of February 2019. The original data is not entirely clean and tidy. Some datatypes were changed to more appropriate ones, null values were examined and deleted. 
 **Skills:** Data Scraping, Data Cleaning,  Data Analysis, Descriptive Statistics, Data Visualization.\
 **Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn, Geopandas, Shapely \
-**Results:** The analysis was mainly geared to reveal the stations with the most bike usage and to determine if geographical location played a part in the usage. \
+**Results:** The analysis was mainly geared to reveal the stations with the most bike usage and to determine if geographical location played a part in the usage. 
 
 ## Portfolio Projects
 In this section, I will list some projects briefly describing the skills, technology stack, and results. I will also provide links to the code, files and screenshots where necessary.
 
 - ### Excel Projects
+	- #### Road Accident Data Analysis [road_accident_analysis.xlsx](https:\\www.ter.com)
+	In this project used dataset from [kaggle](https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022) to create a dashboard with generated KPI's and pivot tables. The project covered skills like *Data Cleaning, Pivot Tables, Visualization Charts*
 - ### SQL, MySQL,  PostgreSQL Projects
 - ### Power BI, Tableau Projects
 - ### Python, R Projects
+
+## Certificates
+
+Here are a list of certificates I have obtained in this journey. Since project-based learning suits my style best, I prefer MOOC's that are project-based and excel videos that walkthrough projects.
+- [Business Analyst Program - Azubi](https://drive.google.com/drive/u/0/folders/1x-yqYKlqESEJOgxAlQVGCVSj7IoXCkph) (June 2022)
+- [Data Analyst - Udacity](https://drive.google.com/drive/u/0/folders/1x-yqYKlqESEJOgxAlQVGCVSj7IoXCkph) (October 2022)
+- [BSc Electrical & Computer Engineering](https://drive.google.com/drive/u/0/folders/1x-yqYKlqESEJOgxAlQVGCVSj7IoXCkph) (June 2016)
+
+## Contacts
+- LinkedIn: [@derricknarkah](https://www.linkedin.com/in/derricknarkah)
+- Email: derricknarkah@gmail.com
+- Telephone: +1 (514) 929 6130 / +1 (773) 461 9284 / +233 (24) 881 6130
