@@ -41,7 +41,8 @@ With the twitter API, information about tweets from the twitter user @dog_rates 
 
 
 ### Ford GoBike Data Analysis
-**Code:** [Part_I_exploration.ipynb](https://github.com/derricknarkah/Ford-GoBike-System-Data-Analysis/blob/main/Part_I_exploration.ipynb), [Part_II_exploration.ipynb](https://github.com/derricknarkah/Ford-GoBike-System-Data-Analysis/blob/main/Part_II_slide_deck.ipynb)\
+**Code:** [Part_I_exploration.ipynb](https://github.com/derricknarkah/Ford-GoBike-System-Data-Analysis/blob/main/Part_I_exploration.ipynb), [Part_II_exploration.ipynb](https://github.com/derricknarkah/Ford-GoBike-System-Data-Analysis/blob/main/Part_II_slide_deck.ipynb)
+
 **Description:** The Ford GoBike System Data is data collected on 183413 individual rides made in a bike-sharing program in the San Francisco Bay Area covering the period of February 2019. The original data is not entirely clean and tidy. Some datatypes were changed to more appropriate ones, null values were examined and deleted. 
 **Skills:** Data Scraping, Data Cleaning,  Data Analysis, Descriptive Statistics, Data Visualization.\
 **Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn, Geopandas, Shapely \
@@ -51,7 +52,7 @@ With the twitter API, information about tweets from the twitter user @dog_rates 
 In this section, I will list some projects briefly describing the skills, technology stack, and results. I will also provide links to the code, files and screenshots where necessary.
 
 - ### Excel Projects
-	- #### Road Accident Data Analysis ([road_accident_analysis.xlsx](https:\\www.ter.com))
+	- #### Road Accident Data Analysis ([road_accident_analysis.xlsx](https://github.com/derricknarkah/data_analysis_project_walkthroughs/blob/main/road_accident_data_analysis.xlsx))
 	In this project used dataset from [kaggle](https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022) to create a dashboard with generated KPI's and pivot tables. The project covered skills like *Data Cleaning, Pivot Tables, Visualization Charts*
 - ### SQL, MySQL,  PostgreSQL Projects
 - ### Power BI, Tableau Projects
