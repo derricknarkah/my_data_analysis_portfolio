@@ -53,10 +53,12 @@ In this section, I will list some projects briefly describing the skills, techno
 
 - ### Excel Projects
 	- #### Road Accident Data Analysis ([road_accident_analysis.xlsx](https://github.com/derricknarkah/data_analysis_project_walkthroughs/blob/main/road_accident_data_analysis.xlsx))
-	In this project used dataset from [kaggle](https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022) to create a dashboard with generated KPI's and pivot tables. The project covered skills like *Data Cleaning, Pivot Tables, Visualization Charts*
-- ### SQL, MySQL,  PostgreSQL Projects
-- ### Power BI, Tableau Projects
-- ### Python, R Projects
+	This project used dataset from [kaggle](https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022) to create a dashboard with generated KPI's and pivot tables. The project covered skills like *Data Cleaning, Pivot Tables, Visualization Charts*
+- ### SQL, MySQL, Power BI ([YT_Bike Share Analysis]
+	- #### Bike Share Data Analysis (https://github.com/derricknarkah/data_analysis_project_walkthroughs/blob/main/YT_bike_share-main/bike_share_project_001.pdf))
+	This project involves the creation of a database, some minor cleaning with SQL queries and connection to Power BI to build a dashboard. This is a walkthrough project created by youtube channel [Absent Data](https://www.youtube.com/watch?v=jdGJWloo-OU)
+
+
 
 ## Certificates
 
