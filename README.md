@@ -16,7 +16,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section, I will list data analytics projects briefly describing the skills, technology stack, and results. I will also provide links to the code, files and screenshots where necessary.
 
 ### FBI Gun Data Analysis
-**Code:** [Investigate a Dataset Project.ipynb](https://github.com/derricknarkah/FBI-Gun-Data-Project/blob/main/Investigate%20a%20Dataset%20Project.ipynb)\
+**Code:** [Investigate a Dataset Project.ipynb](https://github.com/derricknarkah/FBI-Gun-Data-Project/blob/main/Investigate%20a%20Dataset%20Project.ipynb)
 **Description:** The dataset is from the FBI's National Instant Criminal Background Check System (NICS) and the U.S Census Data. The NICS is used to determine whether a prospective buyer is eligible to buy firearms or explosives. The statistics in this dataset originally represent the number of firearm background checks initiated through the NICS. They do not represent the number of firearms sold. HOWEVER, ACCORDING TO "The Trace (2015), THE FBI'S NICS NUMBERS ARE WIDELY ACCEPTED AS THE BEST PROXY FOR TOTAL GUN SALES IN A GIVEN TIME PERIOD. All analysis that will be carried out with this dataset will be considered related to Gun Sales.
 The project involved data wrangling, exploratory data analysis ,and some visualization.\
 **Skills:** Data Cleaning, Data Analysis, Descriptive Statistics, Data Visualization.\
@@ -29,7 +29,7 @@ The project involved data wrangling, exploratory data analysis ,and some visuali
 
 
 ### Welcome to Dogville
-**Code:** [wrangle_act.ipynb](https://github.com/derricknarkah/Welcome-to-DogVille/blob/main/wrangle_act.ipynb), [act_report.ipynb](https://github.com/derricknarkah/Welcome-to-DogVille/blob/main/act_report.ipynb), [wrangle_report.ipynb](https://github.com/derricknarkah/Welcome-to-DogVille/blob/main/act_report.ipynb)\
+**Code:** [wrangle_act.ipynb](https://github.com/derricknarkah/Welcome-to-DogVille/blob/main/wrangle_act.ipynb), [act_report.ipynb](https://github.com/derricknarkah/Welcome-to-DogVille/blob/main/act_report.ipynb), [wrangle_report.ipynb](https://github.com/derricknarkah/Welcome-to-DogVille/blob/main/act_report.ipynb)
 
 **Description:** 
 The project combined data gathered from the twitter web app account with a csv file to better understand people's dog preferences.
